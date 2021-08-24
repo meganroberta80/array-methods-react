@@ -29,7 +29,7 @@ To set up the activity
 
 Take a look at the `./src/planetData.js` file. The file contains an array of planet data.
 
-This planet data is pulled into `App.js`.
+Take a look at `App.js`. At the top of the file we're pulling in `planetData`. We'll be rendering this data in our App component. Familiarize yourself with the App component's `render()` method and the `renderPlanets()` method.
 
 At the moment the App component is set up to render an array of `<p>` tags, one for each planet in the  `planetData` array.
 

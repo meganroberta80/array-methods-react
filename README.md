@@ -1,6 +1,6 @@
 # Lab: Array Methods with React
 
-This lab will give you a chance to practice looping through data in a React App.
+With this lab we'll get a chance to practice looping through arrays in a React.
 
 ![loops in the sky](./images/sky-loop.jpg)
 

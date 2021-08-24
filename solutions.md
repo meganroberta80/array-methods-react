@@ -179,7 +179,6 @@ Do your best to work through each challenge. If you've been stuck on any particu
 <details>
   <summary>Challenge #8</summary>
 
-  7.
   - Given the array of planet data 'find' the planet with the name
   of 'Jupiter'.
   - Map through the moons array of the found planet, to display a

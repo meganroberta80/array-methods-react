@@ -4,7 +4,7 @@ This lab will give you a chance to practice looping through data in a React App.
 
 ![loops in the sky](./images/sky-loop.jpg)
 
-We'll be using JavaScript's fancy array methods. These give us a lot of power to manipulate data in arrays.
+We'll be using JavaScript's **[fancy array methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)**. These give us a lot of power to manipulate data in arrays and can be a lot of fun once you get the hang of it!
 
 You'll mainly be using these three.
 - [Map method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)

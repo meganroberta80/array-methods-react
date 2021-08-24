@@ -6,7 +6,7 @@ This lab will give you a chance to practice looping through data in a React App.
 
 We'll be using JavaScript's **[fancy array methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)**. These give us a lot of power to manipulate data in arrays and can be a lot of fun once you get the hang of it!
 
-You'll mainly be using these three.
+You'll mainly be using these three for today's exercise.
 - [Map method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 - [Filter method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
 - [Find method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find)

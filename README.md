@@ -1,6 +1,10 @@
 # Lab: Array Methods with React
 
-This lab will give you a chance to practice the JavaScript array methods in the context of a React app.
+This lab will give you a chance to practice looping through data in a React App.
+
+![loops in the sky](./images/sky-loop.jpg)
+
+We'll be using JavaScript's fancy array methods. These give us a lot of power to manipulate data in arrays.
 
 You'll mainly be using these three.
 - [Map method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)

@@ -5,7 +5,7 @@ Do your best to work through each challenge. If you've been stuck on any particu
 <details>
   <summary>Challenge #1</summary>
 
-  1. Given the array of planet data render a list of each of the planet names.
+  Given the array of planet data render a list of each of the planet names.
 
   ```js
   renderPlanets() {
@@ -21,7 +21,7 @@ Do your best to work through each challenge. If you've been stuck on any particu
 <details>
   <summary>Challenge #2</summary>
 
-  2. Given the array of planet data, map through the array to
+  Given the array of planet data, map through the array to
   render a list displaying each of the plenet's name and their
   diameter.
 
@@ -44,7 +44,7 @@ Do your best to work through each challenge. If you've been stuck on any particu
 <details>
   <summary>Challenge #3</summary>
 
-  3. Given the array of planet data, map through the array to
+  Given the array of planet data, map through the array to
   render a list display just the name and length of day of
   each planet.
 
@@ -67,7 +67,7 @@ Do your best to work through each challenge. If you've been stuck on any particu
 <details>
   <summary>Challenge #4</summary>
 
-  4. Given the array of planet data, map through the array to
+  Given the array of planet data, map through the array to
   render a list display the name and length of day of each
   planet. Prepend each planet name with it's index in the array.
   For example...
@@ -97,7 +97,7 @@ Do your best to work through each challenge. If you've been stuck on any particu
 <details>
   <summary>Challenge #5</summary>
 
-  4. Given the array of planet data 'find' the planet with the name
+  Given the array of planet data 'find' the planet with the name
   of 'Earth' and render it's name, diameter, and length of day. Use
   one of the array iterator methods to find the planet.
 
@@ -123,7 +123,7 @@ Do your best to work through each challenge. If you've been stuck on any particu
 <details>
   <summary>Challenge #6</summary>
 
-  5. Given the array of planet data 'find' the planet with the length
+  Given the array of planet data 'find' the planet with the length
   of day of 10.7 render it's name, diameter, and length of day. Use
   one of the array iterator methods to find the planet.
 
@@ -149,7 +149,6 @@ Do your best to work through each challenge. If you've been stuck on any particu
 <details>
   <summary>Challenge #7</summary>
 
-  6.
   - Given the array of planet data filter for an array of all
   the planets with a ring system.
   - Map through the filtered array to render the list of planets

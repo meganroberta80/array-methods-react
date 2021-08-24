@@ -1,4 +1,4 @@
-# Array Methods with React
+# Lab: Array Methods with React
 
 This lab will give you a chance to practice the JavaScript array methods in the context of a React app.
 

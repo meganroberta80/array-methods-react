@@ -83,7 +83,7 @@ Do your best to work through each challenge. If you've been stuck on any particu
     return planetData.map((planet, idx) => {
       return (
         <div>
-          <h4>{idx}. {planet.name}</h4>
+          <h4>{idx + 1}. {planet.name}</h4>
           <p>Length of Day: {planet.lengthOfDay}</p>
         </div>
       );

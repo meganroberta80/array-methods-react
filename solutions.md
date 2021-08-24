@@ -5,6 +5,8 @@ Do your best to work through each challenge. If you've been stuck on any particu
 <details>
   <summary>Challenge #1</summary>
 
+  1. Given the array of planet data render a list of each of the planet names.
+
   ```js
   renderPlanets() {
     return planetData.map((planet) => {
@@ -18,6 +20,10 @@ Do your best to work through each challenge. If you've been stuck on any particu
 
 <details>
   <summary>Challenge #2</summary>
+
+  2. Given the array of planet data, map through the array to
+  render a list displaying each of the plenet's name and their
+  diameter.
 
   ```js
   renderPlanets() {
@@ -38,6 +44,10 @@ Do your best to work through each challenge. If you've been stuck on any particu
 <details>
   <summary>Challenge #3</summary>
 
+  3. Given the array of planet data, map through the array to
+  render a list display just the name and length of day of
+  each planet.
+
   ```js
   renderPlanets() {
     return planetData.map((planet) => {
@@ -56,6 +66,40 @@ Do your best to work through each challenge. If you've been stuck on any particu
 
 <details>
   <summary>Challenge #4</summary>
+
+  4. Given the array of planet data, map through the array to
+  render a list display the name and length of day of each
+  planet. Prepend each planet name with it's index in the array.
+  For example...
+  ```html
+  <div>
+    <h4>1. Mercury</h4>
+    <p>Length Of Day: 4222.6 hours</p>
+  </div>
+  ```
+
+  ```js
+  renderPlanets() {
+    return planetData.map((planet, idx) => {
+      return (
+        <div>
+          <h4>{idx}. {planet.name}</h4>
+          <p>Length of Day: {planet.lengthOfDay}</p>
+        </div>
+      );
+    })
+  }
+  ```
+</details>
+
+<br>
+
+<details>
+  <summary>Challenge #5</summary>
+
+  4. Given the array of planet data 'find' the planet with the name
+  of 'Earth' and render it's name, diameter, and length of day. Use
+  one of the array iterator methods to find the planet.
 
   ```js
   renderPlanets() {
@@ -77,7 +121,11 @@ Do your best to work through each challenge. If you've been stuck on any particu
 <br>
 
 <details>
-  <summary>Challenge #5</summary>
+  <summary>Challenge #6</summary>
+
+  5. Given the array of planet data 'find' the planet with the length
+  of day of 10.7 render it's name, diameter, and length of day. Use
+  one of the array iterator methods to find the planet.
 
   ```js
   renderPlanets() {
@@ -99,7 +147,13 @@ Do your best to work through each challenge. If you've been stuck on any particu
 <br>
 
 <details>
-  <summary>Challenge #6</summary>
+  <summary>Challenge #7</summary>
+
+  6.
+  - Given the array of planet data filter for an array of all
+  the planets with a ring system.
+  - Map through the filtered array to render the list of planets
+  displaying their name, diameter, and length of day.
 
   ```js
   renderPlanets() {
@@ -123,8 +177,15 @@ Do your best to work through each challenge. If you've been stuck on any particu
 <br>
 
 <details>
-  <summary>Challenge #7</summary>
+  <summary>Challenge #8</summary>
 
+  7.
+  // 7.
+  // - Given the array of planet data 'find' the planet with the name
+  // of 'Jupiter'.
+  // - Map through the moons array of the found planet, to display a
+  // list of all of the moons.
+  
   ```js
   renderPlanets() {
     const jupiter = planetData.find((planet) => planet.name === 'Jupiter');
